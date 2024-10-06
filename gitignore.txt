@@ -1,0 +1,69 @@
+# Ignore system files
+.DS_Store
+
+# Ignore build and generated files
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.class
+*.o
+*.out
+*.a
+*.la
+*.lo
+*.lprof
+*.pyc
+*.pyo
+*.pyd
+*.class
+*.jar
+*.war
+*.tgz
+*.gz
+*.zip
+*.7z
+*.tar
+
+# Ignore Go binary files
+/token-cli
+/tokenvm
+
+# Ignore configuration files
+*.yaml
+*.yml
+*.json
+*.toml
+*.env
+
+# Ignore log files
+*.log
+
+# Ignore node modules (if applicable)
+node_modules/
+
+# Ignore IDE specific files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Ignore test files if not needed
+/tests/
+# Ignore all PNG files
+*.png
+
+# Ignore all test files
+/tests/*
+
+# Ignore scripts if not needed for deployment
+/scripts/*
+
+# Ignore system files
+.DS_Store
+
+# Ignore build artifacts or compiled files
+*.exe
+*.bin
+
