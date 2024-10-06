@@ -30,7 +30,7 @@ The TokenVM Project is a demonstration of creating, minting, and managing a cust
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/tokenvm.git
+   git clone https://github.com/Metacrafters/tokenvm.git
    cd tokenvm
    ```
 
